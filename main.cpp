@@ -13,4 +13,5 @@ int main()
     cout << "a+b= " << c << endl;
     cout << "a-b= " << a-b << endl;
     cout << "a*b= " << a*b << endl;
+    cout << "a/b= " << a/b << endl;
 }
